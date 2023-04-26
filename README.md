@@ -12,7 +12,8 @@ compare:
 I've added a rotate transform on the SVG's on `:hover`.  
 The SVG with text before it does not rotate correctly because the size of the `rect` element is incorrect.
 
-<video src="https://user-images.githubusercontent.com/11521496/234633274-8deee93d-7cd6-4695-adac-7ed4db7b4f5b.mp4">
+<video src="https://user-images.githubusercontent.com/11521496/234633274-8deee93d-7cd6-4695-adac-7ed4db7b4f5b.mp4" />
+
 
 ## Original report
 
