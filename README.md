@@ -14,6 +14,7 @@ The SVG with text before it does not rotate correctly because the size of the `r
 
 <video src="https://user-images.githubusercontent.com/11521496/234633274-8deee93d-7cd6-4695-adac-7ed4db7b4f5b.mp4" />
 
+------------------
 
 ## Original report
 
