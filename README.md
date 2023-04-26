@@ -1,4 +1,4 @@
-# safari-svg-display-grid-bug-0001
+# safari-svg-size-bug-0001
 
 ## Update 2022-04-26
 
