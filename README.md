@@ -6,8 +6,13 @@ This seems unrelated to `display: grid;`,
 the simplest reproduction I've currently found is adding some plain text before an SVG.
 
 compare:
-- https://romainmenke.github.io/safari-svg-display-grid-bug-0001/svg-with-text.html
-- https://romainmenke.github.io/safari-svg-display-grid-bug-0001/svg-without-text.html
+- faulty:  https://romainmenke.github.io/safari-svg-display-grid-bug-0001/svg-after-text.html
+- correct: https://romainmenke.github.io/safari-svg-display-grid-bug-0001/svg-without-text.html
+
+I've added a rotate transform on the SVG's on `:hover`.  
+The SVG with text before it does not rotate correctly because the size of the `rect` element is incorrect.
+
+<video src="https://user-images.githubusercontent.com/11521496/234633274-8deee93d-7cd6-4695-adac-7ed4db7b4f5b.mp4">
 
 ## Original report
 
